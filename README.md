@@ -1,5 +1,5 @@
-# roxasauth
-Authentication API for Roxas
+# RoxasAuth
+RoxasAuth is a Python wrapper for the [Roxas](https://github.com/TalCohen/roxas) API.
 
 Installation
 ------------
