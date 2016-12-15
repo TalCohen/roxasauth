@@ -4,7 +4,7 @@ class roxasauth():
     def __init__(self, api_key):
         self.api_key = api_key
 
-        self.roxas_url = 'http://gravity.csh.rit.edu:3333/'
+        self.roxas_url = 'https://roxas.csh.rit.edu/'
         self.ibutton_url = 'ibutton/auth'
         self.nfc_auth_url = 'nfc/auth'
         self.nfc_verify_url = 'nfc/verify'

@@ -6,7 +6,7 @@ setup(
     author="Tal Cohen",
     author_email="tcohen123@gmail.com",
     url="https://github.com/TalCohen/roxasauth",
-    version="1.1.0",
+    version="1.2.0",
     license="GPLv3",
     classifiers = [
         "Development Status :: 4 - Beta",
